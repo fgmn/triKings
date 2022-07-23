@@ -19,7 +19,9 @@
     <tr>
         <td>2</td>
         <td></td>
-        <td colspan="3">智能优化算法（SA, GA）</td>
+        <td>GA在TSP中问题中的应用</td>
+        <td>GA</td>
+        <td>SA</td>
     </tr>
     <tr>
         <td>3</td>
@@ -29,7 +31,10 @@
     <tr>
         <td>4</td>
         <td></td>
-        <td colspan="3">规划类</td>
+        <td>线性规划</td>
+        <td>整数规划</td>
+        <td>非线性规划</td>
+    </tr>
     </tr>
 </table>
 
