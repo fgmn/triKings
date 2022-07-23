@@ -19,7 +19,7 @@
     <tr>
         <td>2</td>
         <td>*</td>
-        <td colspan="3">智能优化算法（SA, GA）</td>
+        <td colspan="3">智能优化算法（SA, GA）（20年B题、马尔科夫预测 P412）</td>
     </tr>
     <tr>
         <td>3</td>
