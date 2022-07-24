@@ -1,7 +1,7 @@
 
 ## 训练时间计划
 
-<table border="1" align="center">
+<table border="1" style="text-align: center;">
     <tr>
         <th>0</th>
         <th>is_finished</th>
