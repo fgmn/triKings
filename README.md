@@ -2,33 +2,33 @@
 ## 训练时间计划
 
 <table border="1" style="text-align: center;">
-    <tr>
+    <tr style="text-align: center;">
         <th>0</th>
         <th>is_finished</th>
         <th>unaughty</th>
         <th>yee</th>
         <th>JS</th>
     </tr>
-    <tr>
+    <tr style="text-align: center;">
         <td>1</td>
         <td>√</td>
         <td>TSP</td>
         <td>费用流</td>
         <td>网络流</td>
     </tr>
-    <tr>
+    <tr style="text-align: center;">
         <td>2</td>
         <td></td>
         <td>GA在TSP中问题中的应用</td>
         <td>GA</td>
         <td>SA</td>
     </tr>
-    <tr>
+    <tr style="text-align: center;">
         <td>3</td>
         <td></td>
         <td colspan="3">国赛优秀论文选讲（离散类）（20年B题、马尔科夫预测 P412）</td>
     </tr>
-    <tr>
+    <tr style="text-align: center;">
         <td>4</td>
         <td></td>
         <td>线性规划</td>
